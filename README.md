@@ -1,0 +1,1 @@
+usefull hash calculator
